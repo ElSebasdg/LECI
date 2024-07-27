@@ -15,4 +15,4 @@ LECI is designed to provide students with robust skills in technological innovat
 
 ### Testimonials and Presentations
 
-To learn more about the impact and quality of the program, check out the presentation by the Course Director and the testimonials from our students on [YouTube](https://chatgpt.com/c/938a501e-3687-48f6-874f-84aefcfebcfe). These insights offer valuable perspectives on the experiences and opportunities provided by LECI.
+To learn more about the impact and quality of the program, check out the presentation by the Course Director and the testimonials from our students on [YouTube](https://www.youtube.com/watch?v=aNGC2yX3vy0). These insights offer valuable perspectives on the experiences and opportunities provided by LECI.

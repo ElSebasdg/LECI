@@ -1,0 +1,3 @@
+output input ola ; # userInput
+output < "p1.txt"; # fileinput
+output > "p3.txt"; #fileOutput

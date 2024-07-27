@@ -1,0 +1,10 @@
+antlr4-build
+antlr4-visitor SuffixCalculator Execute Double   -> criar ficheiro para os visitors 
+    comando   |nome da gramática|  nome do ficheiro para os visitors | tipo das funçoes 	
+
+antlr4-main -i -v Execute   -> "compilar" ficheiro para os visitors
+antlr4-build
+antlr4-run
+
+Para ver arvore:
+echo "hello joao" | antlr4-test -gui

@@ -1,0 +1,9 @@
+# p1.txt
+output "1 2 3";
+$v1="hello";
+output $v1;
+output abc;
+$v1=bye;
+output $v1;
+output "1 2 3" | + nl;
+output "1 2 3" | + 2 |+ Nl | +$v1;

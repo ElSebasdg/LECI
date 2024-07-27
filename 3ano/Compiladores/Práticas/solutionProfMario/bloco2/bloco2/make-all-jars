@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for d in b2_*; do
+   cd $d
+   antlr4-build
+   make-jar *Main.java /home/mos/lib/antlr-4.9.2-complete.jar
+   antlr4-clean
+   cd ..
+done
+

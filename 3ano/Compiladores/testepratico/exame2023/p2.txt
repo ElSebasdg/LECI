@@ -1,0 +1,6 @@
+output "U"|+A;
+output "123" | replace 2 " two ";
+
+output 1|+NL|+123|+NL|+3 | grep 2;
+
+output 1 |+ ("1"|+ NL |+ 2 | grep 2) |+ (ABA | replace A "" | replace B 3);
