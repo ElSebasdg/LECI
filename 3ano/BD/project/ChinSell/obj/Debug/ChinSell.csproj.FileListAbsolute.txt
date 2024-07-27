@@ -1,0 +1,46 @@
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\bin\Debug\ChinSell.exe.config
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\bin\Debug\ChinSell.exe
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\bin\Debug\ChinSell.pdb
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Form1.resources
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Properties.Resources.resources
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.CopyComplete
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.exe
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.pdb
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.catálogo.resources
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.produto.resources
+C:\Users\sebas\Documents\GitHub\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Perfil.resources
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\bin\Debug\ChinSell.exe.config
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\bin\Debug\ChinSell.exe
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\bin\Debug\ChinSell.pdb
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.catálogo.resources
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Form1.resources
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Perfil.resources
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.produto.resources
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.CopyComplete
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.exe
+C:\Users\ASUS\OneDrive - Universidade de Aveiro\Desktop\BD\Prática\Trabalho Final\BD\ChinSell\ChinSell\obj\Debug\ChinSell.pdb
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\bin\Debug\ChinSell.exe.config
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\bin\Debug\ChinSell.exe
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\bin\Debug\ChinSell.pdb
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.catálogo.resources
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Form1.resources
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Perfil.resources
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.produto.resources
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.Properties.Resources.resources
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.csproj.CopyComplete
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.exe
+C:\Users\sebas\Desktop\BD\ChinSell\ChinSell\obj\Debug\ChinSell.pdb
