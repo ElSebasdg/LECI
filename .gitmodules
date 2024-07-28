@@ -1,3 +1,6 @@
 [submodule "3ano/AS/AS-Projeto"]
 	path = 3ano/AS/AS-Projeto
 	url = https://github.com/aokiLourenco/AS-Projeto.git
+[submodule "2ano/AS/AS-Projeto"]
+	path = 2ano/AS/AS-Projeto
+	url = https://github.com/aokiLourenco/AS-Projeto.git
